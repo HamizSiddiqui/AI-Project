@@ -4,8 +4,6 @@
 
 
 
----
-
 ## 🎮 Gameplay Overview
 
 - **Grid Size:** 8x8
