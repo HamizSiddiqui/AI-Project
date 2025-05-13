@@ -2,7 +2,7 @@
 
 **AI Royal Virus** is a strategic tile-based game built using **Python and Pygame**, where the player competes against an intelligent AI to dominate a nature-themed grid. Navigate through tiles representing the elements — Water, Air, Earth, and Fire — and be the first to reach **35 points** or secure control of high-value nature tiles.
 
-![Nature Wars Preview](https://via.placeholder.com/600x400.png?text=Game+Preview) <!-- You can replace this with a real screenshot -->
+
 
 ---
 
