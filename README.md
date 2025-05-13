@@ -49,7 +49,7 @@ The AI uses a **minimax algorithm with alpha-beta pruning** and prioritizes:
   - All tiles are filled
   - No valid moves left
 
-## How to Play
+## 💻 How to Play
 1) Read the rules when the game starts
 2) Click on adjacent empty tiles to make your move
 3) Try to capture Water and Air tiles for maximum points
@@ -62,7 +62,7 @@ The AI uses a **minimax algorithm with alpha-beta pruning** and prioritizes:
 - Easy-to-read rules screen
 - Win screen with dynamic messages
 
- ## Technical Details
+ ## ⚙️ Technical Details
 - Board Size: 8x8 grid
 - AI Algorithm: Minimax with alpha-beta pruning (depth 5)
 - Evaluation Function: Considers:
@@ -77,7 +77,7 @@ The AI uses a **minimax algorithm with alpha-beta pruning** and prioritizes:
   
 Feel free to reach out or contribute!
 
-## License
+## 📄 License
 This project is open-source and available under the MIT License.
 
 
