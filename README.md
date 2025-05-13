@@ -76,7 +76,7 @@ The AI uses a **minimax algorithm with alpha-beta pruning** and prioritizes:
 **🧑‍💻 Author**
 - Muhammad Hamiz Siddiqui
 - Zuhair Zeshan
-Feel free to reach out or contribute!
+(Feel free to reach out or contribute!)
 
 **License**
 This project is open-source and available under the MIT License.
