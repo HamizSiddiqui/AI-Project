@@ -23,6 +23,7 @@ START_TILE_COLOR = (147, 112, 219)
 BUTTON_COLOR = (100, 200, 100)
 BUTTON_HOVER_COLOR = (120, 255, 120)
 
+
 nature_types = ["Earth", "Water", "Air", "Fire", None]
 
 nature_colors = {
